@@ -5,6 +5,7 @@ elasticsearch 在 python 中的使用demo。
 elasticsearch在ubuntu中的docker安装与启动，非常简单。
 https://blog.csdn.net/Thanours/article/details/109592219
 也可以到官方网址参考安装教程https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
+
 2. python环境：
 python3.6
 pip install elasticsearch==7.9.1
