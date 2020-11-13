@@ -16,7 +16,7 @@ pip install elasticsearch==7.9.1
 4. 维基百科数据入库到elasticsearch， 并实现多种查询，包括match和multi_match、复合查询。
 5. 可使用多个关键词查询，或整个句子问题去查询。可以指定返回结果数量。
 
-# 使用
+# 三、使用
 1. 完成 一 中的环境配置
 2. 下载维基百科数据：https://github.com/brightmart/nlp_chinese_corpus/
 3. 将下载回来的维基百科数据解压并放在data文件夹下。
