@@ -30,5 +30,6 @@ elasticsearch 在 python 中的使用demo。
 # 四、Reference
 https://zhuanlan.zhihu.com/p/95532596
 
-个人csdn博客：https://blog.csdn.net/Thanours?spm=1011.2124.3001.5113
+# csdn博客  
+https://blog.csdn.net/Thanours?spm=1011.2124.3001.5113
 
