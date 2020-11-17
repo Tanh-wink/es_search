@@ -1,5 +1,7 @@
 # es_search
-elasticsearch 在 python 中的使用demo。
+elasticsearch 在 python 中的使用demo。  
+实现增删改查， 以及批量入库， match、multi_match和复合查询、helpers scan查询方法。  
+更多elasticsearch搜索查询方法详解请查看https://blog.csdn.net/Thanours/article/details/109625553
 # 一、运行条件:
 1.elasticsearch安装  
 
@@ -28,4 +30,5 @@ elasticsearch 在 python 中的使用demo。
 # 四、Reference
 https://zhuanlan.zhihu.com/p/95532596
 
+个人csdn博客：https://blog.csdn.net/Thanours?spm=1011.2124.3001.5113
 
