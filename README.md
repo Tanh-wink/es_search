@@ -1,4 +1,4 @@
-English | [中文]()
+English | [中文](README_zh.md)
 
 # es_search
 elasticsearch 在 python 中的使用demo。  
