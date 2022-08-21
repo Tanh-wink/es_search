@@ -1,3 +1,5 @@
+[English](README.md) | 中文
+
 # es_search
 elasticsearch 在 python 中的使用demo。  
 实现增删改查， 以及批量入库， match、multi_match和复合查询、helpers scan查询方法。  
