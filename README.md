@@ -7,9 +7,9 @@ For more details on elasticsearch search query methods, please check https://blo
 ## 一、Running conditions:
 1.Install elasticsearch   
 
-  elasticsearch在ubuntu中的docker安装与启动，非常简单。  
+  The installation and startup of elasticsearch in ubuntu and docker is very simple. 
   https://blog.csdn.net/Thanours/article/details/109592219  
-  也可以到官方网址参考安装教程https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
+  You can also go to the official website to refer to the installation tutorial: https://www.elastic.co/guide/en/elasticsearch/reference/current/install-elasticsearch.html
 
 2.python：   
 
