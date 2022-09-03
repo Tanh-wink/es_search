@@ -19,15 +19,18 @@ For more details on elasticsearch search query methods, please check https://blo
 ## 二、Implement
 1. 使用python实现elasticsearch的封装类，包括了增删改查， 以及批量入库， helpers scan查询方法。
 2. elasticsearch mappings配置对中文使用ik分词器，elasticsearch如何配置ik分词器请参考：https://blog.csdn.net/Thanours/article/details/109619013
-3. elasticsearch mappings配置查询使用BM25得分
-4. 维基百科数据入库到elasticsearch， 并实现多种查询，包括match和multi_match、复合查询。
-5. 可使用多个关键词查询，或整个句子问题去查询。可以指定返回结果数量。
+3. elasticsearch mappings configure query to use BM25 score
+4. Wikipedia data is stored in elasticsearch, and a variety of queries are implemented, including match and multi_match, and compound queries.
+5. You can use multiple keyword queries, or whole sentence questions to query. The number of returned results can be specified.
 
 ## 三、Running
-1. 完成 （一） 中的环境配置
-2. 下载维基百科数据：https://github.com/brightmart/nlp_chinese_corpus/
-3. 将下载回来的维基百科数据解压并放在data文件夹下。
-4. 运行python Retrieve.py即可，查询结果将写入到文件中并保存到data文件夹下
+1. Complete the environment configuration in (1);
+
+2. Download Wikipedia data：https://github.com/brightmart/nlp_chinese_corpus/;
+
+3. Unzip the downloaded Wikipedia data and put it in the data folder;
+
+4. Run python Retrieve.py, and the query results will be written to a file and saved to the data folder
 
 ## 四、Reference
 https://zhuanlan.zhihu.com/p/95532596
